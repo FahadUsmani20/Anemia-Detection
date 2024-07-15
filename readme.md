@@ -44,7 +44,7 @@ The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear
 Clone the project
 
 ```bash
-  git clone https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images
+  git clone https://github.com/FahadUsmani20/Anemia-Detection.git
 ```
 
 Go to the project directory
