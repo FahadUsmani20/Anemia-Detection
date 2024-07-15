@@ -6,7 +6,7 @@ Aim is to develop a robust and efficient model for the early detection of anemia
 
 The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear membrane that protects your eye. The aim is to classify the images into anemic or non-anemic. The dataset is almost balanced and ready for the model building.
 
-![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/dataset.png)
+![img](https://github.com/FahadUsmani20/Anemia-Detection/blob/main/assets/dataset.png)
 
 
     
@@ -37,7 +37,7 @@ The dataset consists of 4262 conjuctiva images. The conjunctiva is a thin, clear
 
 ## Architecture 
 
-![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/Architecture.png)
+![img](https://github.com/FahadUsmani20/Anemia-Detection/blob/main/assets/Architecture.png)
 
 ## Run Locally
 
@@ -69,9 +69,9 @@ Run the model
 
 - **Confusion Matrix**
 
-![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/confusion_matrix.png)
+![img](https://github.com/FahadUsmani20/Anemia-Detection/blob/main/assets/confusion_matrix.png)
 
 
 - **Classification Report**
 
-![img](https://github.com/kirpalsingh225/Detection-of-Anemia-Using-Conjuctiva-Images/blob/main/assets/classification%20report.png)
+![img](https://github.com/FahadUsmani20/Anemia-Detection/blob/main/assets/classification%20report.png)
